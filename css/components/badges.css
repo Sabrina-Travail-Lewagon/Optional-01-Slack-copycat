@@ -1,0 +1,64 @@
+.icon-person{
+  font-size: 10px;
+  color: #1FE5BD;
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.icon-person-off{
+  font-size: 10px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.person{
+  opacity: .5;
+  font-size: 18px;
+}
+
+.badge-person{
+  display: flex;
+}
+
+.channel-header {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding-top: 20px;
+}
+
+.channel-header h2{
+  font-size: 16px;
+  margin: 0;
+}
+
+.icon-channel-header{
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+
+.channel {
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  padding-top: 10px;
+  opacity: .5;
+}
+
+.channel h2{
+  font-size: 16px;
+  margin: 0;
+  font-weight: normal;
+}
+
+.icon-channel{
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  padding-right: 8px;
+}
